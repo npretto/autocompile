@@ -4,7 +4,9 @@ autocompile
 I tested this only on windows, it may work on linux using mono (it uses hxcs)
 
 ##How to use
-Compile the project, rename the executable to "autocompile.exe" and add it to your path
+You can either compile the project yourself, or use the pre-compiled file in the repo
+
+Command line usage:
 
 ``` autocompile path/to/your/compile.hxml ```
 
