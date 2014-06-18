@@ -1,0 +1,4 @@
+-cp src
+-cs bin
+-main Main
+-debug
